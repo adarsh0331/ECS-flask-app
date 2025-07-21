@@ -2,7 +2,7 @@ name: Deploy Flask App with Terraform
 
 on:
   push:
-    branches: [  ]
+    branches: [ main ]
     
 permissions:
   contents: read
